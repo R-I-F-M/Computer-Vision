@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/riteshtambe/riteshtambe/blob/main/video_2025-01-15_23-53-30.gif" alt="MasterHead">
+</p>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
