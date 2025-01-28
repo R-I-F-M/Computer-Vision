@@ -17,12 +17,5 @@
       <li>Precision spraying techniques</li>
     </ul>
   </div>
-
-  <div class="section">
-    <h2>📧 Contact Us</h2>
-    <p>Reach out for collaborations: <a href="mailto:info@yourcompany.com">info@yourcompany.com</a></p>
-  </div>
-
-  <a href="https://yourcompany.com" class="btn">Visit Our Website</a>
 </body>
 </html>
