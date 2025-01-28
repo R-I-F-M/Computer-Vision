@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/riteshtambe/riteshtambe/blob/main/drone-phantom.gif" alt="MasterHead">
-</p>
+[![Watch the video](path-to-thumbnail-image)](path-to-your-video-file.mp4)
 
 <!DOCTYPE html>
 <html lang="en">
